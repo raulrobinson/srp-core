@@ -8,7 +8,7 @@
         <version>3.5.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.github.rasysbox</groupId>
+    <groupId>com.github.raulrobinson</groupId>
     <artifactId>srp-core</artifactId>
     <version>1.0.0</version>
     <name>srp-core</name>
