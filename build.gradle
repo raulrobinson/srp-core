@@ -2,12 +2,10 @@ plugins {
     id 'java-library'
 }
 
-group = 'com.rasysbox'
+group = 'com.github.rasysbox'
 version = '1.0.0'
 
 java {
-    sourceCompatibility = JavaVersion.VERSION_17
-    targetCompatibility = JavaVersion.VERSION_17
     withSourcesJar()
 }
 
