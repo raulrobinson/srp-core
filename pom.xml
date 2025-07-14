@@ -13,6 +13,12 @@
     <version>1.0.0</version>
     <name>srp-core</name>
     <description>Libraries for implementing services under the SRP flow</description>
+    <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
     <properties>
         <java.version>17</java.version>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
