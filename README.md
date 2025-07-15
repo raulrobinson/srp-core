@@ -2,7 +2,11 @@
 
 Librería Java estándar para autenticación segura usando **SRP-6a** (Secure Remote Password).
 
-Incluye:
+#### Flow of authentication:
+
+![SRP-Security.png](SRP-Security.png)
+
+#### Include:
 - SRPInteger (wrapper de BigInteger)
 - SRPUtils (hashes, pruebas, cálculo de `u`, `M1`, `M2`, etc.)
 - SrpServerSession
